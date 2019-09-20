@@ -22,7 +22,7 @@ Here are some of the project screen shots.<br><br><br>
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/idkashutosh/internship.git internship
+    $ git clone https://github.com/idkashutosh/hotel-app.git internship
     $ cd internship/
     $ flutter packages get
     $ flutter run
@@ -31,6 +31,6 @@ In the command terminal, run the following commands:
 
 If you want to experience podoriginals on your mobile then download the apk from here:
 
-[Download APK](https://github.com/idkashutosh/internship/raw/master/app-release.apk)
+[Download APK](https://github.com/idkashutosh/hotel-app/raw/master/app-release.apk)
 
 ##### Check out Flutter’s online [documentation](http://flutter.dev/) for help getting started with your Flutter project.
