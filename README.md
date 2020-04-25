@@ -22,8 +22,8 @@ Here are some of the project screen shots.<br><br><br>
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/idkashutosh/hotel-app.git internship
-    $ cd internship/
+    $ git clone https://github.com/idkashutosh/hotel-booking-app-ui.git
+    $ cd hotel-booking-app-ui/
     $ flutter packages get
     $ flutter run
 
